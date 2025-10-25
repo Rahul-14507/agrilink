@@ -34,7 +34,7 @@ To get started with your local development setup:
 
 ```bash
 # Step 1: Clone the repository using your project's Git URL
-git clone <YOUR_GIT_URL>
+git clone https://github.com/Rahul-14507/agrilink.git
 
 # Step 2: Move into the project directory
 cd <YOUR_PROJECT_NAME>
@@ -44,3 +44,4 @@ npm i
 
 # Step 4: Start the development server (auto-reloads on changes)
 npm run dev
+
