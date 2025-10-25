@@ -1,73 +1,46 @@
-# Welcome to your Lovable project
+# AgriLink 🌱
 
-## Project info
+AgriLink is a modern web project built to simplify agriculture-related workflows and bring tech-driven solutions to farmers and agritech developers. It uses a clean, component-driven frontend stack and supports fast development with auto-reload and instant previews.
 
-**URL**: https://lovable.dev/projects/19c7aec5-d3d0-4c5c-a9a7-edce22f9e803
+---
 
-## How can I edit this code?
+## 🚀 Project Overview
 
-There are several ways of editing your application.
+AgriLink is built with a focus on scalability, modularity, and performance.  
+It combines modern web technologies to create an intuitive, responsive, and developer-friendly application.
 
-**Use Lovable**
+**Live Preview:** _Deployment link to be added after publishing_
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/19c7aec5-d3d0-4c5c-a9a7-edce22f9e803) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🧠 Tech Stack
 
-**Use your preferred IDE**
+This project is built with the following technologies:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **Vite** — Lightning-fast frontend build tool  
+- **React (TypeScript)** — Component-based UI with static typing  
+- **Tailwind CSS** — Utility-first CSS framework for responsive design  
+- **shadcn/ui** — Prebuilt, theme-consistent UI components  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠️ Getting Started
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+You can edit, run, or deploy this project using your preferred setup.
+
+### Option 1: Work Locally (Recommended)
+
+To get started with your local development setup:
+
+```bash
+# Step 1: Clone the repository using your project's Git URL
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Step 2: Move into the project directory
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
+# Step 3: Install dependencies
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server (auto-reloads on changes)
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/19c7aec5-d3d0-4c5c-a9a7-edce22f9e803) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
